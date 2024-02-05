@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import rospy
 
 from str_common_msgs.msg import BoolArray
